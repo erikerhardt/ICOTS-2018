@@ -9,7 +9,7 @@ output: pdf_document
 
 # Abstract: 
 
-*This mixed-methods study describes learning outcomes related to cognitive transfer among post-secondary students upon completion of a first course in statistics, and makes a case for emphasis of such outcomes as part of the curriculum. A new assessment tool called the Introductory Statistics Understanding and Discernment Outcomes (ISTUDIO) assessment tool was developed an administered to nearly 2000 students attending a wide variety of post-secondary institutions primarily in the United States. Students were observed to demonstrate measureable evidence of both forward-reaching and backward-reaching high road transfer outcomes. Qualitative data from open-ended (i.e. constructed response) tasks revealing unusual or unexpected response patterns are also noted. Implications for teaching and research are included with attention toward both simulation-based and non-simulation-based introductory statistics curricula. *
+*This mixed-methods study describes learning outcomes related to cognitive transfer among post-secondary students upon completion of a first course in statistics, and makes a case for emphasis of such outcomes as part of the curriculum. A new assessment tool called the Introductory Statistics Understanding and Discernment Outcomes (ISTUDIO) assessment tool was developed an administered to nearly 2000 students attending a wide variety of post-secondary institutions primarily in the United States. Students were observed to demonstrate measureable evidence of both forward-reaching and backward-reaching high road transfer outcomes. Unexpected response patterns revealed by the analysis of constructed response tasks will be presented. Implications for teaching and research will be discussed with attention toward both simulation-based and non-simulation-based introductory statistics curricula.  *
 
 
 # Topic Preferences: 
@@ -17,23 +17,4 @@ output: pdf_document
 1. [ICOTS Topic 3] Statistics education at the post-secondary level
 2. [ICOTS Topic 8] New approaches to research in statistics education
 3. [ICOTS Topic 1] Statistics education: Looking back, looking forward
-
-
-
-# Remarks 
-
-- Abstracts are limited to 125 words (this one is 120)
-- Each abstract selects three topic preferences from the 10 ICOTS topic streams
-- A proposal that is not accepted for a Main Topic or that was submitted to Topic 11 will be considered by the Programme Committee for inclusion as a Contributed Paper.
-- I imagine this paper/presentation could be more about the learning outcomes observed... I had asked early on whether that should be a separate paper, and we decided to focus the ISTUDIO paper on the instrument but maybe this is a good venue to mention the instrument but focus the content on learning outcomes & application?  
-
-
-### Dissertation Abstract (for comparison)
-This study chronicles the creation of an assessment tool that quantifies cognitive transfer outcomes for introductory statistics students. Literature suggested that outcomes associated with cognitive transfer are closely aligned with statistical thinking and are indicative of students’ ability to apply learning to novel scenarios beyond the classroom. No assessment tool had been developed and published for the purpose of measuring cognitive transfer outcomes among statistics students. The results of this study suggest that the Introductory Statistics Understanding and Discernment Outcomes (I-STUDIO) assessment tool may effectively serve this purpose. 
-
-The assessment tool was developed according to a rigorous protocol of expert feedback and iterative piloting. Data were collected and analyzed from a nationwide sample of nearly 2,000 students attending a wide variety of post-secondary institutions, and the I-STUDIO instrument was found to measure both forward-reaching and backward-reaching high road transfer outcomes with good psychometric properties. 
-
-Data analysis indicated high reliability and diverse validity evidence. This evidence included confirmatory factor analysis models with compelling alignment to the theoretical model and analysis of qualitative themes among expert feedback. Analysis of scoring consistency also showed strong inter-rater agreement. Although the sample size of the scored responses is somewhat small by convention for item response theory, a graded response model generally showed good item functioning. Furthermore, the data suggested that the I-STUDIO assessment estimated student ability with consistent precision across a wide range of above-average and below-average students. 
-
-Teachers and researchers can use I-STUDIO for comparing outcomes of alternative curricula. Additionally, the I-STUDIO instrument can be used to measure the effect of curriculum changes designed to improve transfer outcomes. Furthermore, the instrument and scoring rubric were designed to accommodate diverse curricula for the purpose of refining course outcomes. 
 
