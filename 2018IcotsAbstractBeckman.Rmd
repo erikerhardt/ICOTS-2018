@@ -1,5 +1,5 @@
 ---
-title: "Assessment of Cognitive Transfer in Statistics."
+title: "Cognitive transfer outcomes in post-secondary statistics"
 author: 
 - Matthew D. Beckman^[Pennsylvania State University (USA)] & Robert C. delMas^[University of Minnesota (USA)]  
 
