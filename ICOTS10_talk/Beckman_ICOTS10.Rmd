@@ -1,0 +1,49 @@
+---
+title: "Cognitive transfer assessment in post-secondary statistics"
+author: "Matthew Beckman"
+date: "6/13/2018"
+output: beamer_presentation
+---
+
+
+
+# Notes: 
+
+- Presentation
+    - don't present the paper
+    - more "detail" than paper
+    - share actual patterns of examples
+- Time allocation (~ 20 mins?)
+    - 5 min: Intro/background of study
+    - 2 min on credibility of the instrument
+    - 10 min show results
+    - 3-5 min conclusion
+
+
+"What is ISTUDIO designed to measure?"
+
+- Discernment of statistical questions
+    - this evaluation is the first step to productive analysis
+    - W & P "PPDAC" cycle (P-P phase)
+- Forward & backward transfer
+    - W &P "shuttling"
+    - assessment is designed to isolate each direction in the shuttling process
+        - (BT) context to architype
+        - (FT) architype to context
+
+"What do you learn when you ask questions like this?"
+
+
+Results/Issues to discuss
+1. population as a process: 
+    - summarize 2 examples
+    - finding: some students constructed some kind of artificial discrete/countable population 
+2. lexical ambiguity/misconceptions of parameter
+    - summarize 2 examples
+    - finding: large variability ascribed to parameter
+    - finding: "study design detail/constraint" (cite ZDM & Kaplan papers)
+3. is this a statistical question?
+    - summarize 2 examples
+    - finding: students self-contradict... say "no" and then use inference anyway
+
+
