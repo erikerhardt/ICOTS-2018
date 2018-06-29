@@ -1,13 +1,83 @@
 ---
 title: "Cognitive transfer assessment in post-secondary statistics"
-author: "Matthew Beckman"
-date: "6/13/2018"
+author: | 
+  | Matthew Beckman
+  | Pennsylvania State University (USA)
+  |
+  | Robert delMas
+  | University of Minnesota (USA)
+date: "7/12/2018"
 output: beamer_presentation
 ---
 
+## Front Matter
+
+- *Cognitive transfer* has been used in the learning literature to describe the degree to which knowledge can be successfully applied to new or novel situations (e.g., Singley & Anderson, 1989)
+
+- **I**ntroductory **ST**atistics **U**nderstanding and **DI**scernment **O**utcomes (ISTUDIO) Assessment
 
 
-# Notes: 
+
+## What was ISTUDIO designed to measure?
+
+- Discernment of statistical questions
+    - this evaluation is the first step to productive analysis
+    - Problem phase in "PPDAC" cycle (Wild & Pfannkuch, 1999; Arnold, 2012)
+    - Difference between deterministic and stochastic inquiry (Franklin & Garfield, 2006)
+
+- Statistical thinking
+    - Statistical thinking manifests as "shuttling" between problem context and architypical models (Wild & Pfannkuch 1999)
+    - ISTUDIO attempts to isolate each direction in the shuttling process
+        - context to architype
+        - architype to context
+
+## Study Details
+
+- sample
+- analysis
+- ISTUDIO description & credibility
+
+
+## What do you learn when you ask questions like this?
+
+- Test their reflexes (Chance, 2002)
+
+## Results/Issues to discuss (Fill this out more)
+1. population as a process: 
+    - summarize 2 examples
+    - finding: some students constructed some kind of artificial discrete/countable population 
+2. lexical ambiguity/misconceptions of parameter
+    - summarize 2 examples
+    - finding: large variability ascribed to parameter
+    - finding: "study design detail/constraint" (cite ZDM & Kaplan papers)
+3. is this a statistical question?
+    - summarize 2 examples
+    - finding: students self-contradict... say "no" and then use inference anyway
+
+
+## Conclusions 
+
+
+
+## References 
+
+\scriptsize
+
+#. Ben-Zvi, D., & Garfield, J. (2005). Statistical literacy, reasoning, and thinking: Goals, definitions, and challenges. *The challenge of developing statistical literacy, reasoning and thinking* (pp. 3-15) Springer.
+
+#. Chance, B. (2002). Components of statistical thinking and implications for instruction and assessment. *Journal of Statistics Education, 10*(3).
+
+#. Franklin, C. A., & Garfield, J. B. (2006). The GAISE Project. Developing statistics education guidelines for grades pre-K-12 and college courses. In G. F Burrill & P. C. Elliot (Eds.), *Thinking and reasoning with data and chance* (pp. 345-375). Reston, VA: National Council of Teachers of Mathematics.
+
+#. Singley, M. K., & Anderson, J. (1989). *The transfer of cognitive skill.* Cambridge, MA: Harvard.
+
+#. Wild, C.J. & Pfannkuch, M. (1999). Statistical Thinking in Empirical Enquiry. *International Statistical Review, 67*(3), 223-265. 
+
+
+
+<!---
+
+ Notes: 
 
 - Presentation
     - don't present the paper
@@ -46,4 +116,4 @@ Results/Issues to discuss
     - summarize 2 examples
     - finding: students self-contradict... say "no" and then use inference anyway
 
-
+---> 
