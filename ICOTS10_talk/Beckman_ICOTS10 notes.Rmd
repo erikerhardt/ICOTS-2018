@@ -1,16 +1,6 @@
 ---
-title: "Cognitive transfer assessment in post-secondary statistics"
-author: | 
-  | Matthew Beckman
-  | Pennsylvania State University (USA)
-  | Robert delMas
-  | University of Minnesota (USA)
-date: | 
-  | ICOTS 10
-  | Kyoto, Japan
-  | 
-  | 7/12/2018
-output: beamer_presentation
+title: "ICOTS-10 Notes"
+output: pdf_document
 ---
 
 ## Front Matter
@@ -29,41 +19,45 @@ output: beamer_presentation
 2. One slide outline of the study
 3. **What we learn when asking questions like this?**
 
+
+
 ## What was ISTUDIO designed to measure?
 
-- Discernment of statistical questions
-    - this evaluation is the first step to productive analysis
-    - Problem phase in "PPDAC" cycle (Wild & Pfannkuch, 1999)
+*Chris Wild said in his talk on Tuesday, that our courses should emphasize students doing the stuff that **can't** be automated... honestly, that's a pretty good summary of what ISTUDIO attempts to measure*
+
+
+#### Slide Text 
+
+1. Discernment of statistical questions
+    - **Reflexively asking and answering "Can statistics help?" is perhaps the first step to productive analysis**
     - Difference between deterministic and stochastic inquiry (Franklin & Garfield, 2006)
 
-- Statistical thinking
-    - Statistical thinking manifests as "shuttling" between problem context and architypical models (Wild & Pfannkuch 1999)
-    - ISTUDIO attempts to isolate each direction in the shuttling process
-        - context to architype 
-        - architype to context
+2. Statistical thinking
+    - Can students *cognitively* make their way between context of the task at hand and architypical "models" abstracted from experience and prior encounters
+    - **ISTUDIO attempts to isolate each direction in the shuttling process**
+        - context to architype (some in L&C have called this "backward transfer")
+        - architype to context (and this "forward transfer")
 
-## Brief outline of study 
 
-- Sample
-    - 1975 student participants; 1935 consented to research; 1566 usable responses
-    - 29 class sections for 16 unique classes at 15 different institutions
-    - Analysis based on a representative random sample of $n = 178$
-- ISTUDIO assessment tool
-    - 7 open-ended tasks, each with two or more parts
-    - Inference is appropriate for some, but NOT all questions.
-    - Respond as if giving advice/instructions to a classmate.
-    - Provide enough detail that a classmate could easily carry out your instructions, and explain how he or she should interpret the result within the context of the problem.
-    - Calculations are NOT required.
-- Scoring rubrics
-    - Curriculum agnostic
+## BRIEF outline of study 
+
+- Fairly large sample of post-secondary students across US
+- Convenience Sample of instructors that replied to email solicitations
+- 7 **open-ended** tasks, each with two or more parts
+- (This part was shared with students)
+    - Inference is appropriate for some, but **NOT ALL** questions.
+    - Respond as though you are **giving advice/instructions to a classmate** that has asked you for help.
+    - Enough detail that a classmate could **carry out your instructions**, and explain how he or she should **interpret the result**
+    - **NO Calculations**
+- Scoring
+    - Curriculum agnostic--no calculations anyway, intentional rubric design
     - Every task has a detailed rubric with real student examplars
     - Rubric development and analysis available in Beckman (2015)
-- Reliability & validity analysis reported in Beckman (2015)
+- Leaving psychometric analysis out of scope here, but reported in detail elsewhere
 
+\newpage
 
 ## What do we learn when asking questions like this?
-
-Let's look at a few of the ISTUDIO tasks as well as some actual student responses...
 
 ## Task Description: Note Identification task 
 
@@ -86,12 +80,11 @@ Item credit: Garfield, J., delMas, R., & Zieffler, A. (2012)
 
 ## Selected responses to the Note Identification task
 
-1. "Since statistical inferences measure population it would not be a good idea to use this in the case of carla because it is measuring the accuracy of her note identification skills, not measuring a population." (Student 1038)
+#. "Since statistical inferences measure population it would not be a good idea to use this in the case of carla because it is measuring the accuracy of her note identification skills, not measuring a population." (Student 1038)
 
-<br>
+#. "No, I don't think so because you are not comparing her data to anyone else's data or to an overall population." (Student 1006)
 
-2. "No, I don't think so because you are not comparing her data to anyone else's data or to an overall population." (Student 1006)
-
+#. "No, because Carla is an individual in the population not a sample" (Student 780)
 
 ## Observation: Population as a process
 
@@ -101,6 +94,7 @@ Item credit: Garfield, J., delMas, R., & Zieffler, A. (2012)
 - For example: 
     - "I would sample at least less then 10% of the overall population but not just one person." (Student 780)
     - "I would test a population of people on whether they have a good ear for music and then compare the students score compared to the rest of the population." (Student 1550)
+- The intuition is reasonable to use a population to establish criterion for "a good ear", but this certainly does not disqualify use of inference
 
 
 ## Task Description: Rossman-Chance Task
@@ -120,13 +114,13 @@ An underlying principle of all statistical inference is that one uses sample sta
 Be as specific as possible, and do not use any example that was discussed in your statistics course.
 
 
-## Selected responses to Rossman-Chance Task (emphasis added)
+## Selected responses to Rossman-Chance Task
 
-1. **Student 1486**: Question:  Is facebook a popular social networking site among college students?  The *sample* will be 100 randomly selected students from 5 American campuses (500 students total).  The *population* will be college students.  The *statistic* will be whether or not they use facebook and the *parameter* will be yes or no.
+- Student 1486: *Question:  Is facebook a popular social networking site among college students?  The **sample** will be 100 randomly selected students from 5 American campuses (500 students total).  The **population** will be college students.  The **statistic** will be whether or not they use facebook and the **parameter** will be yes or no.*
 
-2. **Student 1550**: Is there a major difference in test scores of males verse females on their ACT scores? The *sample* is random sample of 500 juniors in [the state]. 250 males. 250 females. *Population*: all juniors in [the state]. *Statistic*: 500 *parameter*: all juniors in [the state].
+- Student 1550: *Is there a major difference in test scores of males verse females on their ACT scores? The **sample** is random sample of 500 juniors in [the state]. 250 males. 250 females. **Population**: all juniors in [the state]. **Statistic**: 500 **parameter**: all juniors in [the state].*
 
-3. **Student 1459**: If you would like to figure out the average height of men aged from 20-35?   *Population*: Everyone in that age range *Sample*: selections made from the population   *Statistic*: The height from the men *Parameter*: The people who are getting tested
+- Student 1459: *If you would like to figure out the average height of men aged from 20-35? /  Population: Everyone in that age range  /  Sample: selections made from the population  /  Statistic: The height from the men /  Parameter: The people who are getting tested*
 
 
 ## Observation: Lexical ambiguity/misconceptions of parameter
@@ -135,7 +129,6 @@ Be as specific as possible, and do not use any example that was discussed in you
 - The task is unique in that it permits students to use a context of their own invention/choosing
 - The **parameter** seemed particularly challenging for students, to which they ascribed a variety of concepts (e.g., a variable, a study constraint, a population).
 - This is evidence of an issue 
-
 
 ## Task Description: Display Screen Quality
 
@@ -209,50 +202,49 @@ In the Note Identification task, a stochastic inquiry, we see the converse issue
 - Better insight into understanding & misconceptions of our students
 
 
-## References 
 
-\scriptsize
-
-#. Beckman, M. D. (2015). *Assessment of cognitive transfer outcomes for students of introductory statistics* (Doctoral dissertation, University of Minnesota—Twin Cities). Retrieved from http://iase-web.org/documents/dissertations/15.MatthewBeckman.Dissertation.pdf
-
-#. Beckman, M. D., delMas, R. C. (in review). Statistics students' identification of inferential model elements within contexts of their own invention. 
-
-#. Ben-Zvi, D., & Garfield, J. (2005). Statistical literacy, reasoning, and thinking: Goals, definitions, and challenges. *The challenge of developing statistical literacy, reasoning and thinking* (pp. 3-15) Springer.
-
-#. Chance, B. (2002). Components of statistical thinking and implications for instruction and assessment. *Journal of Statistics Education, 10*(3).
-
-#. Franklin, C. A., & Garfield, J. B. (2006). The GAISE Project. Developing statistics education guidelines for grades pre-K-12 and college courses. In G. F Burrill & P. C. Elliot (Eds.), *Thinking and reasoning with data and chance* (pp. 345-375). Reston, VA: National Council of Teachers of Mathematics.
-
-#. Garfield, J., delMas, R., & Zieffler, A. (2012). Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course. *ZDM Mathematics Education, 44*(7), 883-898.
-
-#. Kaplan, J.J. & Rogness, N. (2018). Increasing statistical literacy by exploiting lexical ambiguity of technical terms. *Numeracy, 18*(1). 
-
-#. Rossman, A. J., & Chance, B. L. (2001). Workshop statistics: Discovery with data (2nd ed.). Emeryville, CA: Key College Publishing.
-
-#. Singley, M. K., & Anderson, J. (1989). *The transfer of cognitive skill.* Cambridge, MA: Harvard.
-
-#. Wild, C.J. & Pfannkuch, M. (1999). Statistical Thinking in Empirical Enquiry. *International Statistical Review, 67*(3), 223-265. 
+<!---
 
 
+Notes: 
+
+- Presentation
+    - don't present the paper
+    - more "detail" than paper
+    - share actual patterns of examples
+- Time allocation (~ 20 mins?)
+    - 5 min: Intro/background of study
+    - 2 min on credibility of the instrument
+    - 10 min show results
+    - 3-5 min conclusion
 
 
+"What is ISTUDIO designed to measure?"
 
-## Backup Slides
+- Discernment of statistical questions
+    - this evaluation is the first step to productive analysis
+    - W & P "PPDAC" cycle (P-P phase)
+- Forward & backward transfer
+    - W &P "shuttling"
+    - assessment is designed to isolate each direction in the shuttling process
+        - (BT) context to architype
+        - (FT) architype to context
 
-
-
-## Note Identification Task
-
-![](NoteNamingTask.png)
-
-
-## Display Screen Quality
-
-![](DisplayScreenQual.png)
-
-
-## Rossman Chance Task
-
-![](RossmanChanceItem.png)
+"What do you learn when you ask questions like this?"
 
 
+Results/Issues to discuss
+1. population as a process: 
+    - summarize 2 examples
+    - finding: some students constructed some kind of artificial discrete/countable population 
+2. lexical ambiguity/misconceptions of parameter
+    - summarize 2 examples
+    - finding: large variability ascribed to parameter
+    - finding: "study design detail/constraint" (cite ZDM & Kaplan papers)
+3. is this a statistical question?
+    - summarize 2 examples
+    - finding: students self-contradict... say "no" and then use inference anyway
+
+A new assessment tool called the Introductory Statistics Understanding and Discernment Outcomes (ISTUDIO) assessment tool was developed and administered to nearly 2000 students attending a wide variety of post-secondary institutions primarily in the United States. Students were observed to demonstrate measurable evidence of both forward-reaching and backward-reaching transfer outcomes. Unexpected response patterns revealed by the analysis of constructed response tasks are presented. Implications for teaching and research are discussed with attention toward both simulation-based and non-simulation-based introductory statistics curricula.
+
+---> 
