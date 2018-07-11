@@ -63,6 +63,7 @@ output: pdf_document
 
 Item credit: Garfield, J., delMas, R., & Zieffler, A. (2012)
 
+
 #### Key details
 
 - Some people who have a good ear for music can identify the notes they hear when music is played.

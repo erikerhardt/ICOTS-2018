@@ -71,7 +71,7 @@ Item credit: Garfield, J., delMas, R., & Zieffler, A. (2012)
 
 #### Key details
 
-- Some people who have a good ear for music can identify the notes they hear when music is played.
+- Some people who have a "good ear for music" can identify the notes they hear when music is played.
 - A music teacher choosing and playing a note at random on the piano.  
 - The student names which note was played without looking.
 - **Suppose you want to determine whether a student named Carla has a “good ear for music” using this method of note identification.**
@@ -120,11 +120,16 @@ An underlying principle of all statistical inference is that one uses sample sta
 Be as specific as possible, and do not use any example that was discussed in your statistics course.
 
 
-## Selected responses to Rossman-Chance Task (emphasis added)
+## Responses to Rossman-Chance Task (emphasis added)
+\scriptsize
 
 1. **Student 1486**: Question:  Is facebook a popular social networking site among college students?  The *sample* will be 100 randomly selected students from 5 American campuses (500 students total).  The *population* will be college students.  The *statistic* will be whether or not they use facebook and the *parameter* will be yes or no.
 
+<br>
+
 2. **Student 1550**: Is there a major difference in test scores of males verse females on their ACT scores? The *sample* is random sample of 500 juniors in [the state]. 250 males. 250 females. *Population*: all juniors in [the state]. *Statistic*: 500 *parameter*: all juniors in [the state].
+
+<br>
 
 3. **Student 1459**: If you would like to figure out the average height of men aged from 20-35?   *Population*: Everyone in that age range *Sample*: selections made from the population   *Statistic*: The height from the men *Parameter*: The people who are getting tested
 
@@ -134,7 +139,6 @@ Be as specific as possible, and do not use any example that was discussed in you
 - Students showed a great deal of variability among concepts ascribed to key foundations of inferential statistics
 - The task is unique in that it permits students to use a context of their own invention/choosing
 - The **parameter** seemed particularly challenging for students, to which they ascribed a variety of concepts (e.g., a variable, a study constraint, a population).
-- This is evidence of an issue 
 
 
 ## Task Description: Display Screen Quality
