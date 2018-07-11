@@ -3,17 +3,25 @@ title: "Cognitive transfer assessment in post-secondary statistics"
 author: | 
   | Matthew Beckman
   | Pennsylvania State University (USA)
+  | 
   | Robert delMas
   | University of Minnesota (USA)
 date: | 
-  | ICOTS 10
+  | 10th International Conference on Teaching Statistics
   | Kyoto, Japan
   | 
   | 7/12/2018
 output: beamer_presentation
 ---
 
-## Front Matter
+## Outline (and definitions)
+
+#### Goals for the session
+
+0. Introduce ISTUDIO Assessment
+1. What was ISTUDIO designed to measure? 
+2. One slide outline of the study
+3. What do we learn when asking questions like this?
 
 #### Terms
 
@@ -22,12 +30,6 @@ output: beamer_presentation
 - Introductory Statistics Understanding and Discernment Outcomes (ISTUDIO) Assessment
 
 
-#### Goals for the session
-
-0. Introduce ISTUDIO Assessment
-1. What was ISTUDIO designed to measure? 
-2. One slide outline of the study
-3. **What we learn when asking questions like this?**
 
 ## What was ISTUDIO designed to measure?
 
@@ -145,9 +147,9 @@ Be as specific as possible, and do not use any example that was discussed in you
 
 #### Key details
 
-- An electronics company makes customized laptop computers for its customers by assembling various parts purchased in bulk from other companies. 
-- The company purchases bulk orders of 150 display screens from a supplier.  
-- If more than 5% of the display screens are bad, the company may reject the entire bulk order for a refund. 
+- An electronics company makes customized laptop computers by assembling various parts purchased in bulk from suppliers. 
+- Bulk order of 150 display screens purchased from a supplier.  
+- If $> 5$% of the display screens are bad, the company may reject the entire bulk order for a refund. 
 - **A trained engineer [will] determine if each of the 150 display screens is good or bad before deciding whether to accept or reject the whole order.**  
 
 #### Prompts
