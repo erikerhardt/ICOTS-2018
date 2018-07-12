@@ -33,6 +33,15 @@ output: beamer_presentation
 
 ## What was ISTUDIO designed to measure?
 
+
+
+## What was ISTUDIO designed to measure?
+
+![](wild_icots10.jpg)
+
+
+## What was ISTUDIO designed to measure?
+
 - Discernment of statistical questions
     - this evaluation is the first step to productive analysis
     - Problem phase in "PPDAC" cycle (Wild & Pfannkuch, 1999)
